@@ -41,3 +41,7 @@
 
 # Demo: 
 ![Screenshot (1221)](https://user-images.githubusercontent.com/66469791/207318546-059c3be7-6656-436c-b792-c1df088047de.png)
+# Video:
+
+https://user-images.githubusercontent.com/66469791/207323254-1b283b12-2c9f-4bea-80cb-517916c94c7f.mp4
+
