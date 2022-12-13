@@ -1,0 +1,61 @@
+* {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+form {
+    border: 2px solid white;
+    border-radius: 6px;
+    border-style: dashed;
+    display: grid;
+    height: 412px;
+}
+
+input {
+    margin-bottom: 4px;
+    height: 28px;
+}
+
+.header {
+    padding-left: 39%;
+    padding-right: 10%;
+
+}
+
+
+.form-container {
+    padding-left: 26%;
+    padding-right: 23%;
+
+}
+
+.pay-btn {
+    margin-left: 42%;
+    cursor: pointer;
+
+}
+
+a {
+    all: unset;
+}
+
+
+h1 {
+    background: -webkit-linear-gradient(rgb(87, 51, 51), #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h3 {
+    padding-left: 35%;
+    padding-right: 10%;
+}
+
+h5 {
+    padding-left: 36%;
+    padding-right: 20%;
+}
+
+#sub-btn {
+    cursor: pointer;
+}
