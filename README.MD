@@ -25,11 +25,14 @@
 # Database design: 
 
 1. Created userdetails table inside yoga-Admission-form database 
-2. Email will be act as primary key for the userdetails table. 
+2. ER-Diagram: 
+![er diagram](https://user-images.githubusercontent.com/66469791/207321881-87b23755-8284-464b-b2a3-0fd9396e890c.jpg)
+
+4. Email will be act as primary key for the userdetails table. 
 
 ![database schema](https://user-images.githubusercontent.com/66469791/207317727-7709ae65-79a8-478f-9251-8a44f0af65ad.jpg)
 
-2. Records of the registered students.
+4. Records of the registered students.
 ![record ](https://user-images.githubusercontent.com/66469791/207317756-6b26eee7-e171-4f0d-9422-d3dea4abb13d.jpg)
 
 
